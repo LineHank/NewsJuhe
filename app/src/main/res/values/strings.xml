@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Newa</string>
+    <string-array name="tabtitle">
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+
+    </string-array>
+</resources>
